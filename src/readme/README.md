@@ -24,8 +24,10 @@ English | [简体中文(相对路径)](./README-zh_CN.md)
 
 English | [简体中文(绝对路径)](/README-zh_CN.md) 
 
+English | [简体中文(多级路径(正确))](../../README-zh_CN.md) 
 
-English | [简体中文(多级路径)](../../../README-zh_CN.md) 
+
+English | [简体中文(多级路径（溢出）)](../../../README-zh_CN.md) 
 
 # 使用 issue 编号
 See issue #123 for more details.
