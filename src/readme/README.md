@@ -20,8 +20,18 @@
 </p>
 
 English | [简体中文](/README-zh_CN.md) 
-[issue](#123) 
-[issue](@123) 
+
+# 使用 issue 编号
+See issue #123 for more details.
+
+# 在其他仓库中引用 issue
+For more information, check out user/repo#123.
+
+# 使用 commit 的短哈希值
+This issue was fixed in commit 1a2b3c.
+
+# 在其他仓库中引用 commit
+The problem was resolved in user/repo@1a2b3c.
 
 TDesign React is a UI component library for React 16.x and desktop application.
 
