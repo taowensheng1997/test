@@ -20,8 +20,8 @@
 </p>
 
 English | [简体中文](/README-zh_CN.md) 
-[issue](/willsontao/test/-/commit/123) 
-[issue](/willsontao/test/-/issue/123) 
+[issue](#123) 
+[issue](@123) 
 
 TDesign React is a UI component library for React 16.x and desktop application.
 
