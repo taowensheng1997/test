@@ -28,10 +28,10 @@ See issue #123 for more details.
 For more information, check out user/repo#123.
 
 # 使用 commit 的短哈希值
-This issue was fixed in commit 1a2b3c.
+This issue was fixed in commit 1a2b3c1.
 
 # 在其他仓库中引用 commit
-The problem was resolved in user/repo@1a2b3c.
+The problem was resolved in user/repo@1a2b3c1.
 
 TDesign React is a UI component library for React 16.x and desktop application.
 
