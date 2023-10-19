@@ -29,6 +29,27 @@ English | [简体中文(多级路径(正确))](../../README-zh_CN.md)
 
 English | [简体中文(多级路径（溢出）)](../../../README-zh_CN.md) 
 
+
+
+# 使用 issue 编号
+See issue #123 for more details.
+
+# 使用 compare的hash
+1a2b3c1...1a2b3c1
+
+# 使用 commit 的短哈希值
+This issue was fixed in commit 1a2b3c1.
+
+# 在其他仓库中引用 issue
+For more information, check out user/repo#123.
+
+# 在其他仓库中引用 commit
+The problem was resolved in user/repo@1a2b3c1.
+
+
+
+
+
 # 使用 issue 编号
 See issue #123 for more details.
 

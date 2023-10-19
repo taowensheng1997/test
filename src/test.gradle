@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'//声明主module，com.android.application
+
+android {//android工程配置
+compileSdkVersion 25  //编译sdk版本号
+buildToolsVersion "25.0.2"//编译工具版本
+defaultConfig {//工程默认配置
+    applicationId "com.example.myapplication"//程序运行时真正的包名，可以与java中包名不同
+    minSdkVersion 15//最小sdk版本号
+    targetSdkVersion 25//目标sdk版本号
+    versionCode 1//应用程序的版本号，以这里修改为准，manifest文件中配置无效
+    versionName "1.0"//应用程序的版本名，以这里修改为准，manifest文件中配置无效
+
+}
+buildTypes {//运行方式配置，可以配置debug，release或者其他自定义
+    release {//release运行方式执行的配置
+        minifyEnabled false //混淆开关
+        proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'//混淆文件
+    }
+}
+}
+
+dependencies {//依赖配置
+compile fileTree(dir: 'libs', include: ['*.jar'])
+androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+    exclude group: 'com.android.support', module: 'support-annotations'
+})
+compile 'com.android.support:appcompat-v7:25.2.0'
+compile 'com.android.support.constraint:constraint-layout:1.0.2'
+testCompile 'junit:junit:4.12'
+}
