@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/codecov/c/github/Tencent/tdesign-react/develop.svg?style=flat-square" alt="codecov">
   </a>
   <a href="https://www.npmjs.com/package/tdesign-react">
+  #123
     <img src="https://img.shields.io/npm/v/tdesign-react.svg?sanitize=true" alt="Version">
   </a>
   <a href="https://www.npmjs.com/package/tdesign-react">
@@ -32,7 +33,7 @@ English | [简体中文(多级路径（溢出）)](../../../README-zh_CN.md)
 
 
 
-# 使用 issue 编号
+# 使用 issue 编号 [简体中文(相对路径)](./README-zh_CN.md) 
 # See issue #123 for more details.
 
 # 使用 compare的hash
