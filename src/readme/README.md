@@ -41,7 +41,7 @@ English | [简体中文(多级路径（溢出）)](../../../README-zh_CN.md)
 # 使用 commit 的短哈希值
 This issue was fixed in commit 1a2b3c1.
 
-# 在其他仓库中引用 issue
+# 在其他仓库中引用 issue <img src="https://img.shields.io/npm/v/tdesign-react.svg?sanitize=true" alt="Version">
 For more information, check out user/repo#123.
 
 # 在其他仓库中引用 commit
