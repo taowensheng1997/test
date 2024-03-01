@@ -12,7 +12,7 @@
 
 这是mention：
   @willsontao
-  @willsontao/tao
+  @willsontao/tao1
 这是hashrange 
   remarkjs@e2acebc...2aa9311
 这是issue
