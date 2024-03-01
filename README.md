@@ -1,11 +1,15 @@
 
 这是hash: 
   1f2a4fb
-  \n
+  
 这是refference
+  remark@1f2a4fb
+  remark#1
   remarkjs/remark-github@1f2a4fb
   remarkjs/remark-github#1
-\n
+  remarkjs/remark-github/sub/sub2@1f2a4fb
+  remarkjs/remark-github/sub/sub2#1
+
 这是mention：
   @willsontao
   @willsontao/tao
@@ -14,6 +18,8 @@
 这是issue
   #1
   #121213
+  GH-1
+  gh-1
 
 
 
