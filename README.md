@@ -1,9 +1,11 @@
 
 这是hash: 
   1f2a4fb
+  \n
 这是refference
   remarkjs/remark-github@1f2a4fb
   remarkjs/remark-github#1
+\n
 这是mention：
   @willsontao
   @willsontao/tao
