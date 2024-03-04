@@ -15,6 +15,7 @@
   @willsontao/tao1
 这是hashrange 
   remarkjs@e2acebc...2aa9311
+  e2acebc...2aa9311
 这是issue
   #1
   #12345
