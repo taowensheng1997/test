@@ -17,4 +17,4 @@ master: # 触发分支
         - name: stage-2 # Stage结构体
           jobs:
             - name: job-1 # Job结构体
-              script: echo hello
+              script: echo hello12
