@@ -9,7 +9,7 @@
   remarkjs/remark-github#8
   remarkjs/remark-github/sub/sub2@1f2a4fb
   remarkjs/remark-github/sub/sub2#6
-  'willsontao/twst@a12345a12345a12345a12345a12345a12345a1234'
+  willsontao/twst@a12345a12345a12345a12345a12345a12345a1234
 
 
 
