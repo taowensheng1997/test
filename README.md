@@ -33,6 +33,16 @@
 
 [测试](https://localhost/willsontao/test/asd/-/pulls/aaa8) 
 
+English | [简体中文(相对路径)](./README-zh_CN.md) 
+
+
+English | [简体中文(绝对路径)](/README-zh_CN.md) 
+
+English | [简体中文(多级路径(正确))](../../README-zh_CN.md) 
+
+
+English | [简体中文(多级路径（溢出）)](../../../README-zh_CN.md) 
+
 <p align="center">
   <a href="https://tdesign.tencent.com/" target="_blank">
     <img alt="TDesign Logo" width="200" src="https://tdesign.gtimg.com/site/TDesign.png" />
