@@ -1,1 +1,4 @@
-123
+- [ ] 1.1 rabbitmq
+- [ ] 1.2 prometheus
+- [ ] 1.3 cls
+- [ ] 1.4 tke 支持自建master/etcd
