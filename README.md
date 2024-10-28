@@ -1,27 +1,13 @@
+---
+title: README
+description: 项目说明
+published: 1
+date: 2024-07-08T01:12:45.055Z
+tags: 
+editor: markdown
+dateCreated: 2024-07-04T15:51:14.587Z
+---
 
-<ul>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.1 rabbitmq</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.2 prometheus</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.3 cls</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.4 tke 支持自建master/etcd</li>
-</ul>
-<ol>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.1 rabbitmq</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.2 prometheus</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.3 cls</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> 1.4 tke 支持自建master/etcd</li>
-</ol>
+# Tencent Cloud Beginner
 
-
-上面是html，下面是md
-
-- [ ] 1.1 rabbitmq
-- [ ] 1.2 prometheus
-- [ ] 1.3 cls
-- [ ] 1.4 tke 支持自建master/etcd
-
-
-1. 1.1 rabbitmq
-2. 1.2 prometheus
-3. 1.3 cls
-4. 1.4 tke 支持自建master/etcd
+`Github`仓库为只读镜像，参与内容创作请登录 https://wiki-tcb.tdp.fan/
