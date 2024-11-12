@@ -1,13 +1,32 @@
----
-title: README
-description: 项目说明
-published: 1
-date: 2024-07-08T01:12:45.055Z
-tags: 
-editor: markdown
-dateCreated: 2024-07-04T15:51:14.587Z
----
+title = "TOML 例子"
 
-# Tencent Cloud Beginner
+[owner]
+name = "Tom Preston-Werner"
+organization = "GitHub"
+bio = "GitHub Cofounder & CEO\nLikes tater tots and beer."
+dob = 1979-05-27T07:32:00Z # 日期时间是一等公民。为什么不呢？
 
-`Github`仓库为只读镜像，参与内容创作请登录 https://wiki-tcb.tdp.fan/
+[database]
+server = "192.168.1.1"
+ports = [ 8001, 8001, 8002 ]
+connection_max = 5000
+enabled = true
+
+[servers]
+  # 你可以依照你的意愿缩进。使用空格或Tab。TOML不会在意。
+  [servers.alpha]
+  ip = "10.0.0.1"
+  dc = "eqdc10"
+
+  [servers.beta]
+  ip = "10.0.0.2"
+  dc = "eqdc10"
+
+[clients]
+data = [ ["gamma", "delta"], [1, 2] ]
+
+#在数组里换行没有关系。
+hosts = [
+  "alpha",
+  "omega"
+]
