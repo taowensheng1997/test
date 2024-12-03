@@ -34,8 +34,9 @@
 
 <div>
   123
+  <link  href="1.css" rel="stylesheet"></link>
   <style>
-  div {color:green;}
-  p {color:pink;}
-</style>
+    div {color:green;}
+    p {color:pink;}
+  </style>
 </div>
