@@ -35,5 +35,5 @@
 <div>
   123
   <link  style='' href="1.css" rel="stylesheet"></link>
-   <div style="color:red">123</div>
+   <div style="color:red;">123</div>
 </div>
