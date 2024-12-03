@@ -4,10 +4,7 @@
 
 [cnb](https://cnb.cool)
 
-<style>
-  div {color:green;}
-  p {color:pink;}
-</style>
+
 <li class="task-list-item"><input type="checkbox" disabled=""> 1.1 rabbitmq</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> 1.2 prometheus</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> 1.3 cls</li>
@@ -33,3 +30,12 @@
 2. 1.2 prometheus
 3. 1.3 cls
 4. 1.4 tke 支持自建master/etcd
+
+
+<div>
+  123
+  <style>
+  div {color:green;}
+  p {color:pink;}
+</style>
+</div>
