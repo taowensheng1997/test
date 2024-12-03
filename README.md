@@ -34,9 +34,6 @@
 
 <div>
   123
-  <link  href="1.css" rel="stylesheet"></link>
-  <style>
-    div {color:green;}
-    p {color:pink;}
-  </style>
+  <link  style='' href="1.css" rel="stylesheet"></link>
+   <div style="color:red">123</div>
 </div>
