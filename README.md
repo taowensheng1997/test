@@ -35,5 +35,5 @@
 <div>
   123
   <link  style='' href="1.css" rel="stylesheet"></link>
-   <div style="color:red;">123</div>
+<h1 style="color:blue;text-align:center">这是一个标题</h1>
 </div>
